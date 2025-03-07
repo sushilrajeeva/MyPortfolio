@@ -1,6 +1,6 @@
 # Demo :movie_camera:
 
-## View live preview [here](https://sushilbhandary.com/)
+## View live preview [here](https://www.sushilbhandary.com/)
 
 ---
 
