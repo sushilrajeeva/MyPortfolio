@@ -1,8 +1,6 @@
 # Demo :movie_camera:
 
-## View live preview [here](https://sushilbhandary.netlify.app/)
-
-![](./public/image/screen.gif)
+## View live preview [here](https://sushilbhandary.com/)
 
 ---
 
