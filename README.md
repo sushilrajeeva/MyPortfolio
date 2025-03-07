@@ -147,7 +147,7 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/sushilrajeeva/",
   devUsername: "sushilrajeeva",
   resume:
-    "https://drive.google.com/file/d/1iHJwNqxr-_oKTiNrvf7JP918rYyUw9BO/view?usp=sharing",
+    "https://www.sushilbhandary.com/docs/resume",
 };
 ```
 
