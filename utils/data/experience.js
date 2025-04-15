@@ -1,21 +1,21 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer',
-    company: "DigitizeFit LLC",
+    title: "Software Engineer - Volunteer",
+    company: "U.S. Digital Response",
     duration: "Aug 2024 - Present",
-    tools: ['Java', 'Python', 'Spring Boot', 'Django', 'Next.js', 'AWS Lambda', 'Fargate', 'Docker', 'CI/CD', 'System Design', 'Site Reliability', 'PostgreSQL'],
-    image: '/png/digitizefit.png',
-    description: 'At DigitizeFit, I led the development of 10+ SEO-optimized web applications built on Django and Next.js, collaborating with product teams and clients to deliver production-ready features. I developed key product, stock management, and order processing APIs using Java Spring Boot to support a restaurant management platform that directly impacted 4000+ customers. I automated CI/CD pipelines with GitHub Actions and Docker, reducing deployment time by 30 minutes, and achieved a 60% cost reduction by migrating from EC2 to AWS Lambda and Amplify. I also enhanced system scalability and consistency by implementing query caching and centralizing our PostgreSQL database on Amazon RDS.'
+    tools: ['Python', 'Java Spring Boot', 'TypeScript', 'React.js', 'FastAPI', 'LangChain', 'LLM', 'DynamoDB', 'PostgresSQL', 'AWS', 'Terraform', 'Kubernetes'],
+    image: '/png/USDR.png',
+    description: `Developing an AI app using FastAPI, LangChain & LLMs in collaboration with the Maryland State Department of Education (MSDE) to automate the segregation & conversion of 300 Million+ documents into accessible web/PDF formats. Reduced federal grant discovery, application, and tracking time by over 3 hours per cycle for 250+ US Government officials by developing Java Spring Boot backend services and React Dashboards for the Grants Finder Tool (GOST). Automated CI/CD pipelines with GitHub Actions and Docker, decreasing deployment time by 30 minutes.`
   },
   {
     id: 2,
-    title: "Software Engineer - Volunteer",
-    company: "U.S. Digital Response",
-    duration: "Aug 2024 - Jan 2025",
-    tools: ['Python', 'TypeScript', 'React.js', 'Vue.js', 'DynamoDB', 'PostgresSQL', 'AWS', 'Terraform', 'Kubernetes'],
-    image: '/png/USDR.png',
-    description: 'At U.S. Digital Response, I contributed to the development of the Grants Tool (GOST), empowering over 250 U.S. government officials to apply for and report on federal grants. I built and refined UI components and back-end services using React.js, Node.js, Docker, and AWS, ensuring a robust and seamless grant discovery and tracking experience. My work integrated databases like DynamoDB and PostgreSQL, enabling efficient data management for the application.'
+    title: 'Software Engineer',
+    company: "DigitizeFit LLC",
+    duration: "Jan 2024 - July 2024",
+    tools: ['Java', 'Python', 'Spring Boot', 'Django', 'Next.js', 'AWS Lambda', 'Fargate', 'Docker', 'CI/CD', 'System Design', 'Site Reliability', 'PostgreSQL'],
+    image: '/png/digitizefit.png',
+    description: 'At DigitizeFit, I led the development of 10+ SEO-optimized web applications built on Django and Next.js, collaborating with product teams and clients to deliver production-ready features. I developed key product, stock management, and order processing APIs using Java Spring Boot to support a restaurant management platform that directly impacted 4000+ customers. I automated CI/CD pipelines with GitHub Actions and Docker, reducing deployment time by 30 minutes, and achieved a 60% cost reduction by migrating from EC2 to AWS Lambda and Amplify. I also enhanced system scalability and consistency by implementing query caching and centralizing our PostgreSQL database on Amazon RDS.'
   },
   {
     id: 3,
