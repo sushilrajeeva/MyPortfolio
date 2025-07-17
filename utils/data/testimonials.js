@@ -10,7 +10,7 @@ export const testimonials = [
     {
         id: 2,
         name: "Prajwal Gowda",
-        position: "Senior Software Engineer at Infosys",
+        position: "Senior Software Engineer at Goldman Sachs | Ex - Infosys",
         message: "Working alongside Sushil at Infosys, I had the privilege to witness his exceptional growth as a Software Engineer. From our early days in the same team, Sushil's problem-solving skills stood out. His ability to navigate complex challenges with innovative solutions was truly remarkable. Additionally, Sushil's solid grasp of core computer science and software engineering principles set him apart, contributing significantly to our project successes. Among 5000 peers, his designation as a high performer speaks volumes of his capabilities. Sushil's blend of technical acumen and dedication will undoubtedly make him a valuable asset to any team.",
         date: "April 3, 2024",
         image: '/png/prajwal.png'
